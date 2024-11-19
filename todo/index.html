@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced To-Do List App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1> To-Do WEBAPP</h1>
+    </header>
+
+    <main class="container">
+        <div class="task-input-container">
+            <input type="text" id="taskInput" placeholder="Add a new task">
+            <input type="date" id="dueDate" placeholder="Due Date">
+            <select id="prioritySelect">
+                <option value="low">Low Priority</option>
+                <option value="medium">Medium Priority</option>
+                <option value="high">High Priority</option>
+            </select>
+            <button id="addTaskButton">Add Task</button>
+        </div>
+        <ul id="taskList"></ul>
+
+        <button id="clearTasksButton" class="clearButton">Clear All Tasks</button>
+    </main>
+
+    <footer>
+        <p>Created by Harsh</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
