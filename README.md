@@ -1,4 +1,4 @@
-## ** Web Development Projects 
+##  ** Web Development Projects 
 
 This repository contains various projects completed during my Oasis Infobyte Internship for Web Development. These projects demonstrate fundamental and advanced concepts of HTML, CSS, and JavaScript, including responsive design, dynamic functionality, and user authentication.  
 
