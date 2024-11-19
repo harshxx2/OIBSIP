@@ -4,20 +4,21 @@ This repository contains various projects completed during my Oasis Infobyte Int
 
 
 # **Projects Included**
-#1. Landing Page  
-
-A responsive and visually appealing landing page built using modern web design techniques.  
-
+# 1.Calculator  
+A simple and interactive calculator built using HTML, CSS, and JavaScript. This project demonstrates the fundamentals of web development and dynamic UI interactions.  
 
 Features:  
-
-Responsive layout for all screen sizes.  
-
-Clean and modern UI design.  
-
-Smooth scrolling and interactive elements.  
-
-Technologies: HTML, CSS.  
+Perform basic arithmetic operations:  
+Addition  
+Subtraction   
+Multiplication  
+Division  
+Clear the input and reset the calculator.  
+User-friendly and responsive design for both desktop and mobile devices.  
+# Technologies Used:  
+HTML: To structure the calculator interface.  
+CSS: For styling the calculator, including a responsive layout and modern design.  
+JavaScript: To implement calculator functionality and handle user interactions.  
 
 # 2. To-Do List Management  
 
