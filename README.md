@@ -1,9 +1,9 @@
-##  ** Web Development Projects 
+# ** Web Development Projects**  
 
 This repository contains various projects completed during my Oasis Infobyte Internship for Web Development. These projects demonstrate fundamental and advanced concepts of HTML, CSS, and JavaScript, including responsive design, dynamic functionality, and user authentication.  
 
 
-# **Projects Included**
+## **Projects Included**
 # 1.Calculator  
 A simple and interactive calculator built using HTML, CSS, and JavaScript. This project demonstrates the fundamentals of web development and dynamic UI interactions.  
 
@@ -15,12 +15,12 @@ Multiplication
 Division  
 Clear the input and reset the calculator.  
 User-friendly and responsive design for both desktop and mobile devices.  
-# Technologies Used:  
+## Technologies Used:  
 HTML: To structure the calculator interface.  
 CSS: For styling the calculator, including a responsive layout and modern design.  
 JavaScript: To implement calculator functionality and handle user interactions.  
 
-# 2. To-Do List Management  
+## 2. To-Do List Management  
 
 A dynamic web application for task management with essential CRUD functionalities.  
 
@@ -35,7 +35,7 @@ Persistent storage using local storage.
 
 Technologies: HTML, CSS, JavaScript.  
 
-# 3. Tribute Page  
+## 3. Tribute Page  
 
 A simple and elegant tribute page dedicated to MS Dhoni.  
 
@@ -48,7 +48,7 @@ Responsive design.
 
 Technologies: HTML, CSS.  
 
-# 4. Login Authentication  
+## 4. Login Authentication  
 
 A basic authentication system simulating a login process.  
 
@@ -62,8 +62,8 @@ Interactive feedback for invalid login attempts.
 Technologies: HTML, CSS, JavaScript.  
 
 
-#Technologies Used
+## Technologies Used
 Frontend: HTML, CSS, JavaScript.
-#Acknowledgment
+## Acknowledgment
 This repository is part of my work for the **Oasis Infobyte Internship in Web Development.**
 
