@@ -1,10 +1,10 @@
-# ** Web Development Projects**  
+# **Web Development Projects**  
 
 This repository contains various projects completed during my Oasis Infobyte Internship for Web Development. These projects demonstrate fundamental and advanced concepts of HTML, CSS, and JavaScript, including responsive design, dynamic functionality, and user authentication.  
 
 
 ## **Projects Included**
-# 1.Calculator  
+## 1.Calculator  
 A simple and interactive calculator built using HTML, CSS, and JavaScript. This project demonstrates the fundamentals of web development and dynamic UI interactions.  
 
 Features:  
